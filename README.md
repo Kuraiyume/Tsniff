@@ -5,6 +5,10 @@
 ## Usage
 
 ```bash
+chmod +x tsniff.sh
+```
+
+```bash
 ./tsniff.sh [options]
 ```
 
