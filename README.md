@@ -101,12 +101,12 @@ sudo apt install tshark
 
 ## License
 
-MIT License
+- MIT License
 
 ## Author
 
-Veilwr4ith
+- Veilwr4ith
 
 ## NOTE
 
-Ensure these tools are installed and have the necessary permissions to capture and analyze network traffic.
+- Ensure these tool are installed and have the necessary permissions to capture and analyze network traffic.
