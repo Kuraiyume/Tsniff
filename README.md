@@ -1,6 +1,6 @@
 # TSNIFF - TCPDump and TShark Powered Packet Sniffer
 
-**TSNIFF** by Veilwr4ith is a versatile packet sniffer utilizing `tcpdump` and `tshark` for capturing and analyzing network traffic. This tool allows for real-time monitoring, traffic capture, and detailed analysis of captured packets.
+**TSNIFF** is a versatile packet sniffer utilizing `tcpdump` and `tshark` for capturing and analyzing network traffic. This tool allows for real-time monitoring, traffic capture, and detailed analysis of captured packets.
 
 ## Usage
 
@@ -105,7 +105,7 @@ sudo apt install tshark
 
 ## Author
 
-- Zephyr
+- Kuraiyume
 
 ## NOTE
 
